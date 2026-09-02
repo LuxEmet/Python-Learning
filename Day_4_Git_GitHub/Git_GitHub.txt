@@ -1,0 +1,14 @@
+git add . --- Marca cambios para el proximo commit 
+
+git commit -m 'mensaje' --- Guarda ese punto en el historial
+
+git push origin main --- Sube el contenido a GitHub
+
+git status --- Para ver cambios
+
+Usa la convencion mas usada para los mensajes commits es: verbo en presente + lo que cambio
+
+git log --online --- Muestra el historial de  commits
+
+*Rama(Branch)
+
