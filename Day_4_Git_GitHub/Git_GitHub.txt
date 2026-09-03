@@ -8,7 +8,19 @@ git status --- Para ver cambios
 
 Usa la convencion mas usada para los mensajes commits es: verbo en presente + lo que cambio
 
-git log --online --- Muestra el historial de  commits
+git log --oneline --- Muestra el historial de  commits
 
 *Rama(Branch)
+
+Prueba de rama 
+
+git branch 'nombre' --- Crea la Rama
+git checkout nombre_rama --- Te mueve a ella, tambien puedes usar switch en vez de checkout
+git branch --- Usa esto para comprobar la rama en la que te encuentras
+
+
+
+
+
+
 
